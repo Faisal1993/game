@@ -11,8 +11,8 @@ NAMA ANGGOTA KELOMPOK
 4. M. Zainul Askiya           -110533430571 -PTI C
 
 
-Tetriz Game
-Pengertian Game Tetris
+
+Pengertian Game Tetriz
 Tetris adalah permainan teka-teki yang disusun dan diprogram oleh sepasang programmer berkebangsaan Rusia.Dalam permainan tetris, balok-balok tetris berjatuhan ke area permainan dalam waktu konstan.Balok tetris selalu terdiri dari 4 balok kecil yang membentuk 7 macam rupa.
 
 Algoritma
