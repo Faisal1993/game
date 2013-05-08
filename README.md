@@ -13,9 +13,12 @@ NAMA ANGGOTA KELOMPOK
 
 
 Pengertian Game Tetriz
+
 Tetris adalah permainan teka-teki yang disusun dan diprogram oleh sepasang programmer berkebangsaan Rusia.Dalam permainan tetris, balok-balok tetris berjatuhan ke area permainan dalam waktu konstan.Balok tetris selalu terdiri dari 4 balok kecil yang membentuk 7 macam rupa.
 
+
 Algoritma
+
 Pemain dapat mengontrol balok tetris yang jatuh melalui 4 tombol arah panah untuk menggeser ke kanan atau ke kiri dan tombol arah panah ke bawah untuk mempercepat jatuhnya balok tetris. Satu kendali yang lain adalah untuk memutar bentuk balok tetris 90º’
 Algoritma yang gunakan untuk mencari solusi dari permainan tetris adalah algoritma yang menggunakan konsep-konsep yang ada dalam algoritma Greedy dan Algoritma BruteForce.Algoritma Greedy merupakan metode yang paling umum digunakan untuk memecahkan masalah optimasi.Algoritma ini sederhana dan sesuai dengan tujuan yang ada.
 
